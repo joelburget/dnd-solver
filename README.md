@@ -6,15 +6,17 @@ The game is made of eight... games. The one of interest today is called _Dungeon
 
 The game is a constraint satisfaction problem, kind of like sudoku or a magic squares puzzle.
 
-![Tutorial 1](./tutorial1.png)
-![Tutorial 2](./tutorial2.png)
-![Tutorial 3](./tutorial3.png)
-![Tutorial 4](./tutorial4.png)
-![Tutorial 5](./tutorial5.png)
-![Tutorial 6](./tutorial6.png)
-![Tutorial 7](./tutorial7.png)
-![Tutorial 8](./tutorial8.png)
-
+<div>
+<img alt="Tutorial 1" src="./tutorial1.png" width="400px" />
+<img alt="Tutorial 2" src="./tutorial2.png" width="400px" />
+<img alt="Tutorial 3" src="./tutorial3.png" width="400px" />
+<img alt="Tutorial 4" src="./tutorial4.png" width="400px" />
+<img alt="Tutorial 5" src="./tutorial5.png" width="400px" />
+<img alt="Tutorial 6" src="./tutorial6.png" width="400px" />
+<img alt="Tutorial 7" src="./tutorial7.png" width="400px" />
+<img alt="Tutorial 8" src="./tutorial8.png" width="400px" />
+</div>
+  
 ## What is this
 
 TODO
