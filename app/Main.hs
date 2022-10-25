@@ -105,6 +105,7 @@ checkMonsters :: Board -> [Position] -> SBool
 checkMonsters board monsters = foldBools $ checkMonster board <$> monsters
 
 -- A chest must be surrounded on all sides by an empty position
+-- TODO(#1): The chest doesn't have to be in the center of the room.
 checkChest :: Board -> Position -> SBool
 checkChest board (y, x) =
   foldBools $ [x-1..x+1] <&> \x' ->
